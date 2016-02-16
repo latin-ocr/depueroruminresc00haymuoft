@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./depueroruminresc00haymuoft_0005.png"; bbox 0 0 2548 4218; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 697 551 1773 745">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 697 551 1773 745">
+     <span class='ocr_line' id='line_1_1' title="bbox 697 551 1773 745; baseline 0 -2"><span class='ocrx_word' id='word_1_1' title='bbox 697 568 1669 745; x_wconf 75' lang='lat' dir='ltr'>BISSERTA‘PIUNES</span> <span class='ocrx_word' id='word_1_2' title='bbox 1771 551 1773 553; x_wconf 44' lang='lat'>&#39;</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 268 1128 2110 1241">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 268 1128 2110 1241">
+     <span class='ocr_line' id='line_1_2' title="bbox 268 1128 2110 1241; baseline 0 -3"><span class='ocrx_word' id='word_1_3' title='bbox 268 1129 1302 1241; x_wconf 77' lang='lat' dir='ltr'><strong>PHILOLOGICAE</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1385 1128 2110 1240; x_wconf 73' lang='lat' dir='ltr'>HALENSES</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 670 3095 1178 3100">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 670 3095 1178 3100">
+     <span class='ocr_line' id='line_1_3' title="bbox 670 3095 1178 3100; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 670 3095 1178 3100; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 786 3390 1566 3568">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 786 3390 1566 3568">
+     <span class='ocr_line' id='line_1_4' title="bbox 880 3390 1474 3443; baseline 0 -1"><span class='ocrx_word' id='word_1_6' title='bbox 880 3390 1474 3443; x_wconf 85' lang='lat' dir='ltr'><strong>AAAAAAAAAAAA</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 786 3524 1566 3568; baseline 0.001 -2"><span class='ocrx_word' id='word_1_7' title='bbox 786 3524 1566 3568; x_wconf 83' lang='lat' dir='ltr'><strong>EEEEEEEEEEE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 964 3655 1388 3688">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 964 3655 1388 3688">
+     <span class='ocr_line' id='line_1_6' title="bbox 964 3655 1388 3688; baseline -0.002 -1"><span class='ocrx_word' id='word_1_8' title='bbox 964 3655 1071 3687; x_wconf 89' lang='lat' dir='ltr'><strong>MDC</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1076 3655 1388 3688; x_wconf 85' lang='lat' dir='ltr'>XXXXXXXXXXX</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
